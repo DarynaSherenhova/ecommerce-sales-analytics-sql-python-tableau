@@ -19,7 +19,7 @@ To showcase skills in:
 
 ---
 
-## 🗂Dataset Overview
+## Dataset Overview
 
 Extracted from a simulated e-commerce platform via SQL from Google BigQuery.  
 It includes:
@@ -48,7 +48,7 @@ The dataset contains:
 - What traffic sources generate the most revenue?
 - Do registered or subscribed users behave differently?
 - Is there a correlation between sessions and sales?
-- 🗓Do sales show temporal patterns or seasonal trends?
+- Do sales show temporal patterns or seasonal trends?
 
 ---
 
@@ -63,7 +63,7 @@ The dataset contains:
 
 ## Tableau Dashboard
 
-A 2-page Tableau dashboard was created and published on Tableau Public, including:
+Tableau dashboard was created and published on Tableau Public, including:
 
 - Dynamic filters by region, category, and device
 - KPI tracking (sales, sessions, registration rate)
